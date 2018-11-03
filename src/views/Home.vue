@@ -8,10 +8,6 @@
 // @ is an alias to /src
 
 export default {
-  // name: 'home',
-  //   mounted () {
-  //     this.book = '1'
-  //       console.log(this.book)
-  //   }
+  name: 'home'
 }
 </script>
